@@ -61,4 +61,4 @@ bot.on("guildMemberRemove", (guild, member) => {
 
 bot.on('error', e => { console.error(e); });
 
-bot.login("MjE0NDQ0NjQ2NDQ3NzEwMjA5.CpMdUA.woCvxzHWKI5UzArISgrWJ4P8xZo"); //original login donut steel !!!!1!!1111!!!1!1!1!!1!
+bot.login("insert login here"); //original login donut steel !!!!1!!1111!!!1!1!1!!1!
